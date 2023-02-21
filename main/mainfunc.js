@@ -8,7 +8,7 @@ const { number } = require("easy-table");
 const connection = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "!Hoover212",
+  password: "password",
   database: "company_db",
 });
 
